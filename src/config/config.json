@@ -1,0 +1,19 @@
+{
+    "port": 4000,
+    "localDB": "mongodb://127.0.0.1:27017/roxon",
+    "liveDB": "mongodb://squad:squad123@54.37.204.26:27017/squad?authSource=admin"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
